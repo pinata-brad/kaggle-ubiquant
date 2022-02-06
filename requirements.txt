@@ -1,0 +1,5 @@
+pandas
+numpy
+scikit-learn
+pyyaml
+git+git://github.com/pinata-brad/faber.git@main#egg=faber
